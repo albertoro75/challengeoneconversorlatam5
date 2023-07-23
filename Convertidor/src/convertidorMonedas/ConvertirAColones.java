@@ -32,7 +32,6 @@ public class ConvertirAColones {
 		monedaColones = (double) Math.round(monedaColones *100d)/100;
 	JOptionPane.showMessageDialog(null, "Tienes $ " + monedaColones + "Wones");
 	}
-	
 
 }
 
